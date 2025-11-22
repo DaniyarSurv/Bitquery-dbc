@@ -2,10 +2,12 @@
   "name": "dbc-monitor",
   "version": "1.0.0",
   "type": "module",
-  "scripts": { "start": "node src/index.js" },
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "dependencies": {
     "graphql-ws": "^5.13.0",
-    "node-fetch": "^3.4.0",
+    "node-fetch": "^3.3.2",
     "better-sqlite3": "^8.0.0",
     "@solana/web3.js": "^1.78.0"
   }
