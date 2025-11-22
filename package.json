@@ -10,5 +10,6 @@
     "node-fetch": "^3.3.2",
     "better-sqlite3": "^8.0.0",
     "@solana/web3.js": "^1.78.0"
+    "ws": "^8.18.0"
   }
 }
